@@ -13,3 +13,7 @@ The ball is continually falling and the player can tap the rainbow colored circl
 
 The game currently needs to be played on a phone or tablet.  It was not designed to be played on computers and doesn't have the code built in to do so, although it wouldn't be too difficult to add that in.
 
+![screenshot1](screenshot1.png)
+
+![screenshot2](screenshot2.png)
+
