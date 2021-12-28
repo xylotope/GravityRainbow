@@ -1,6 +1,8 @@
 # Game in a Week
+
 ## Week 1
-## Gravity Rainbow
+
+### Rainbow Gravity
 
 This is a simple little game that I built for a challenge to build a game in one week.
 The game is not very polished, but I think it could be a good start to a decent game if it gets some more work.
